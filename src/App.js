@@ -49,7 +49,7 @@ function App() {
     <div className="App">
       {/* https://source.unsplash.com/random */}
       <div className="bg-gradient-to-r from-blue-400 via-purple-500 to-blue-800">
-        <div className="container flex mx-auto w-full py-5">
+        <div className="containerr mx-10 flex mx-auto w-full py-5">
           {/* eslint-disable-next-line */}
           <a name="Top"/>
           <div className="w-12">
@@ -81,7 +81,7 @@ function App() {
         <div className="bg-opacity-80 bg-blue-600 pb-10">
           {/* eslint-disable-next-line */}
           <a name="Content" />
-          <div className="container mx-auto w-full">
+          <div className="containerr mx-10 mx-auto w-full">
             <Nav />
             <div className="w-1/2 text-left select-none font-raisin text-7xl text-white"> Welcome </div>
             <div className="w-1/2 text-left select-none font-raisin text-2xl mt-5 text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>
@@ -97,7 +97,7 @@ function App() {
         <div className="bg-opacity-60 bg-gray-800">
           {/* eslint-disable-next-line */}
           <a name="Tokens" />
-          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="container mx-auto w-full">
+          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="containerr mx-10 mx-auto w-full">
             <div className="flex justify-center flex-row m-auto text-white font-bold text-lg">
               {nfts.slice(0, 5).map(nft => <div className="w-72 bg-1 m-2 p-2 rounded">
                 {nft.name}
@@ -105,7 +105,7 @@ function App() {
               </div>)}
             </div>
           </Reveal>
-          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="container mx-auto w-full">
+          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="containerr mx-10 mx-auto w-full">
             <div className="flex justify-center flex-row m-auto text-white font-bold text-lg">
               {nfts.slice(5, 10).map(nft => <div className="w-72 bg-1 m-2 p-2 rounded">
                 {nft.name}
@@ -113,7 +113,7 @@ function App() {
               </div>)}
             </div>
           </Reveal>
-          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="container mx-auto w-full">
+          <Reveal type={<Fade left/>} from={{ y: 1800 }} to={{ y: 0 }} className="containerr mx-10 mx-auto w-full">
             <div className="flex justify-center flex-row m-auto text-white font-bold text-lg">
               {nfts.slice(10, 15).map(nft => <div className="w-72 bg-1 m-2 p-2 rounded">
                 {nft.name}
@@ -127,7 +127,7 @@ function App() {
       </div>
       {/* Roadmap */}
       <div className="bg-black text-white">
-        <div className="container mx-auto w-full pt-2 pb-5">
+        <div className="containerr mx-10 mx-auto w-full pt-2 pb-5">
           {/* eslint-disable-next-line */}
           <a name="Roadmap" />
           <Reveal from={{ y: 1800 }} to={{ y: 0 }} className="bg-black pt-10 flex">
@@ -154,7 +154,7 @@ function App() {
       </div>
       {/* Roadmap */}
       <div className="bg-giraffe bg-cover text-black pb-10">
-        <div className="container mx-auto w-full pt-2">
+        <div className="containerr mx-10 mx-auto w-full pt-2">
           {/* eslint-disable-next-line */}
           <a name="Mint" />
           <Reveal type={<RubberBand/>} className="">

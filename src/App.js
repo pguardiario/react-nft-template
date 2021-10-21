@@ -49,7 +49,7 @@ function App() {
     <div className="App">
       {/* https://source.unsplash.com/random */}
       <div className="bg-gradient-to-r from-blue-400 via-purple-500 to-blue-800">
-        <div className="containerr mx-10 flex mx-auto w-full py-5">
+        <div className="containerr px-10 flex mx-auto w-full py-5">
           {/* eslint-disable-next-line */}
           <a name="Top"/>
           <div className="w-12">
@@ -81,7 +81,7 @@ function App() {
         <div className="bg-opacity-80 bg-blue-600 pb-10">
           {/* eslint-disable-next-line */}
           <a name="Content" />
-          <div className="containerr mx-10 mx-auto w-full">
+          <div className="containerr px-10 mx-auto w-full">
             <Nav />
             <div className="w-1/2 text-left select-none font-raisin text-7xl text-white"> Welcome </div>
             <div className="w-1/2 text-left select-none font-raisin text-2xl mt-5 text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>

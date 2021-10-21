@@ -1,0 +1,6962 @@
+[
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9992",
+    "image": "https://lh3.googleusercontent.com/89yvQdCb6fozEpDdwat_DvGoNTSrbeCP_08-0nSZ4qvsG6K7dvQa6PYvLPq5Lghl89GAlY0j3iKgiXtfs0Dev8aVjy9whHXn-nXV2T0=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "King's Crown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tuxedo Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 269.09090909090907,
+    "rank": 1
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9880",
+    "image": "https://lh3.googleusercontent.com/jpnAFs2ZRfUYSiA3h7zXo_EKAmhUdzbTeH3XAys-4a1vcabrOhqrWZW4dqXueHo1aAId36rhpzaAazULkqslzusrONwuj2XQ1lJxZGo=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Commie Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 232.13235294117646,
+    "rank": 2
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9927",
+    "image": "https://lh3.googleusercontent.com/EIqoq4d6E0pgr4I-5tOrE9tKoaW_323rG0aLMfLA1e2cjKhgDUH30q-J7eX8EagSEZ9TbHLZClbvHVw8U_yMoAcoJnvTCTAs-9EZHw=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Oh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Ww2 Pilot Helm",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 226.7156862745098,
+    "rank": 3
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9941",
+    "image": "https://lh3.googleusercontent.com/I3FFgad7yPt-05lP2SrMY6Y6kyAuOzbCsoy9js1vEuVSNDoovc3QTQ-BP_9feszKdgCKuSbKl0ub9m1fm_vUmkSWn1NRvYgUuv22kQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Stuntman Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Dagger",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 225.52521008403363,
+    "rank": 4
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9932",
+    "image": "https://lh3.googleusercontent.com/SsXxndiEoqGDQ2Gp9L3ltm8UtYY35QjlZ8N1g9zoCDfXeqUANxCAV18PUbK7NRdH4bwOIMce9U_etFYO3aqTzJxljqwE3d5EnL3O=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Cream",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Diamond Grill",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Biker Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 220.79545454545456,
+    "rank": 5
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9962",
+    "image": "https://lh3.googleusercontent.com/BgDyR9c8VrxfLjyZiRDISoBL3iQc5qrF7t85F8uxXYBZFsGV8JT8j_F-EPU32eaf-X3yOrFCq_A1z8iLI09qX6PFEAUf4kRbOPNuXaM=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sushi Chef Headband",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Multicolored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Caveman Pelt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 220.04901960784315,
+    "rank": 6
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9979",
+    "image": "https://lh3.googleusercontent.com/_R8glUDeTrY4G4kvOiJv3LYnykFLSCNzUKWsLIJJWW2AaAuArlqyYJPgYAIrBjGOXujyhUOiA1ZWKN74lUTn9jj6LS9Y1ZDLmRGkmQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Bubblegum",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 214.58333333333334,
+    "rank": 7
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9948",
+    "image": "https://lh3.googleusercontent.com/jMsgIXhlR0Xe8T7GL3s-6nRY1MKOIcwAF3RtQmNK8_iYycYLCXPRtnB52ODy-p1Jl3qU3yeVgcnhaqu0v_O2v2p8vgUeaLZ2ozUm244=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Trippy Captain's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cream",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Out",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 214.16666666666669,
+    "rank": 8
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9897",
+    "image": "https://lh3.googleusercontent.com/is-NuAfmDYrHQYZJ6yQwNVYRb8ubm5LLbY48R766Dv6PJtQPb9ewMoYAsWxmVteYc1fKIiGLfkKNA7rqHnA5SF1URzOmXujZzXBa=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "X Eyes",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Irish Boho",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 213.40399796282148,
+    "rank": 9
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9899",
+    "image": "https://lh3.googleusercontent.com/D6Mq9nLqW67JJ2FcbQqbLHgYEwJWc856_mmHs6X-0V1ASEQpAUby1Je7VPB9FH1G_0HiD-i0-AqWtchnXrnm5_1XoKdNyJgkapj5fA=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 211.76470588235293,
+    "rank": 10
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9989",
+    "image": "https://lh3.googleusercontent.com/zIJR9vSAn61jmquDIcfgl9gB1Hf_JwMD6gG85L-Wf_lP5M5wqgVCrPto0Dt3X-STpRupuZDKm27mBMDGx7oiKpcoVpS2N0aiOebHdg=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pizza",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Faux Hawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vietnam Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 211.68831168831167,
+    "rank": 11
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9926",
+    "image": "https://lh3.googleusercontent.com/jHaEy71UIaec7NUwFZXFGB3cywWN72s2hfEMc6eMc0lTB2YzG5DExGRVtfj6-YeMXJrfu3S3dQvYkIrcl1ytppBL_0zmzhDov4--Iw=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Discomfort",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Work Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 210.64425770308122,
+    "rank": 12
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9943",
+    "image": "https://lh3.googleusercontent.com/sdWJZFfjKe5Bz4sNXDKFLNw3vXLOS4PYx6jNmrDYJuqEwgKj6L0TGEKnB7EC46afnk1KR23jdYnGUIYeW3q8onpiaJXPRuWIf4_4nCI=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Black Suit",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rage",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 208.33333333333334,
+    "rank": 13
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9881",
+    "image": "https://lh3.googleusercontent.com/huhwaw8LApJ4Zvgv5uBtmcFe6vdwMC968z5uuWabVeOwsI3gq2dfSpYXV_oGsvtLthGVm6uocr87siMcPCorh3xErTVRmaSLAjs3=s250",
+    "attributes": [
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Cowboy Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Death Bot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 206.26114081996434,
+    "rank": 14
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9940",
+    "image": "https://lh3.googleusercontent.com/v5MTCapgLo0NEn0EtUO5efky6fD-AQNSHYZkUVNmGF3La6z2Zv30W8sfl4OayM38xLefH6-WoFhwruo8bfN8XU2J2QuwW9-Khq5nqA=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Space Suit",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme  ooo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      }
+    ],
+    "rarity": 203.76114081996434,
+    "rank": 15
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9990",
+    "image": "https://lh3.googleusercontent.com/9if4CJBMNkyvxLK3-l_RZLA2-b4F08g8vYYcAObdibtTlg-1DNMKdG3S6o80YEawW-fUyKMYrcDbqQ9pBqXSvO6-ouLaqm40IOiK0Ww=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zombie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 200.90399796282148,
+    "rank": 16
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9958",
+    "image": "https://lh3.googleusercontent.com/nynI2A8oBNVk55KZHhskyJRNry-rfoLw76DjDjPYb2Izx3tryZRsYYqrRgTf_g4NnVKQmchtcK9C9l6AKZoHIrgXojEubbK2vX34=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Diamond Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Short Mohawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffy Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 200.09230965113318,
+    "rank": 17
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9895",
+    "image": "https://lh3.googleusercontent.com/AT98i8OajX6Bb9uIV5BGJK-H7iMBNx4ZuYb_JXsdBwo7K546IynjtzPRH9iQqFaQN2V35ttVoHQn7xnUVdTp6tITlUZJgWbinaLaLg=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cyborg",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 200.04329004329003,
+    "rank": 18
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9977",
+    "image": "https://lh3.googleusercontent.com/IIsTAvn1Qg_XmTwVy9HnUNQCUVbpUjiNsW_sqpeP2zOhStLzQNVAiphqk1292ieo6D2DsiZ9Cav3qIm1N6aXdZXxuYwX14cgh25T_g=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 197.3109243697479,
+    "rank": 19
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9922",
+    "image": "https://lh3.googleusercontent.com/OPc7MZRKx4JaH24hP_LM-yFzWJmUY1pBJn5Vtf9M1K4xYbSMDtUjnQUjMfjxPkfqROv3BxeUdYE0_-z_vzNW9w-NZtxECiy0lFb5-zs=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Pipe",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 196.25,
+    "rank": 20
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9967",
+    "image": "https://lh3.googleusercontent.com/DfEACA48K6qO-YAVMxJT5FOlaJ83pC4tLZcTtUgmTBgHsd6SIoFxNFrz8oode6ITp-8ovtNHDjbhuwI-PLxZasOoLn-Vx4GPytDEtA=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Toga",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pizza",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 192.66806722689074,
+    "rank": 21
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9975",
+    "image": "https://lh3.googleusercontent.com/Su3hdjDh9jQnUBRKvAMdyzyybd0gqg2OfdQa6Il_r6Niye78FmHFpT7Bv-i8ll7NEHffy8vco6tami4F87_3LMHc2zd2KIMtu_RiRw=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Scumbag",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Pipe",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      }
+    ],
+    "rarity": 187.42424242424244,
+    "rank": 22
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9947",
+    "image": "https://lh3.googleusercontent.com/OFaP13zag41qwN3O5kxAYvv9eGPbRhPurXfsviYYhNBOV2JvzeoWy8iv395l1g5NvPttck7dWC669XK3SrudUGAQkKspwTf7Zzjisg=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Girl's Hair Pink",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless Logo T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 187.09447415329768,
+    "rank": 23
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9896",
+    "image": "https://lh3.googleusercontent.com/HI8j2339PCReoFM-LJiBGBlTr94fFLs6nIFCoOLS1PwCqD7FLLft00gTjPdFqrjVwfTscEFW-yaVFTs_sHR0ywByibqp7diDHta2=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Prussian Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pimp Coat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 186.76470588235293,
+    "rank": 24
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9882",
+    "image": "https://lh3.googleusercontent.com/Ce9U4WER0WsZFpn7rET63zOHZ2-2yvIkDLheCQ0o58P55LsuNbm4u3qChITfKKHHbVwS4IX4yGGIQSBV-cthEmdgM_VwBSUUk9zvlg=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigar",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 184.58333333333334,
+    "rank": 25
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9875",
+    "image": "https://lh3.googleusercontent.com/aQFBM8iMOMpc5nNcgS4pdvVB2vY-vCBA6xQVzixQPygEdzk3WI36SyxdZWi0o1ejJa2m4kOJkXAWmuvSld3mrNaI6CSkK2exCSNDKBI=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Lab Coat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Noise",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 184.58333333333334,
+    "rank": 26
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9994",
+    "image": "https://lh3.googleusercontent.com/melhsO06p0eqFpLNGMas21c3jQt0e-racpx7MN5szirEU7xce1c5ZlsaAs-sqzM0Mv0wdefPg0SNZSv7NFCtc2aqQjDyaNyL_JHHTg=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Vietnam Era Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 183.84803921568627,
+    "rank": 27
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9976",
+    "image": "https://lh3.googleusercontent.com/zlBk2I4LmuVs6LCyMzGObBL818dfvxmh0IxuDeOspQRIcQ0GdRtuHmbZ3SjQTXz0rMna-BdXwLrxNFu3ERIZ8NL8gOzlX55jcM1I2g=s250",
+    "attributes": [
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Spinner Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Stunt Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 180.85561497326202,
+    "rank": 28
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9885",
+    "image": "https://lh3.googleusercontent.com/iiWunN3fCVXfMrIQf7eOdMkbyYmqvscbb1L2oUDoTaUqXIeFldFqS3An9r9Y-riky9g7YQUF5xPrYfRtC_Fbw1HvoHV0Sz2jIKz7WQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Eyepatch",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffy Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 180.8065953654189,
+    "rank": 29
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9949",
+    "image": "https://lh3.googleusercontent.com/RcXAgekWgaH5mHzxuZVOnYom2ZoFOqs_SL4PWJ7lNP2lgxUY28emwa5NgVXKQnuUs6V8qg6cib1Ahlyjv4O7whNz5DdWSLb0eRZGzQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Gold Grill",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 180.41666666666666,
+    "rank": 30
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9959",
+    "image": "https://lh3.googleusercontent.com/gH2JjZVrujJJqCFupI2SL5PST7aUGvbEjLyP8_I7saavA1aFv-c2QjaxRT1rxdoafZc4r1juNK6kTBARIeB-cz9pW_6Os401t7eN1Nw=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Stunt Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 177.08333333333334,
+    "rank": 31
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9873",
+    "image": "https://lh3.googleusercontent.com/w9qvN-01YsVzzTArF8C0rPdzbC03VPkKdSHxFt4MgK-0nt_dhNkIOe6RhWTPWomtxgFzYET_CEAzfVEPSK6yskHSxL-cN4ZgP8MAXA=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Punk Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Short Mohawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 173.3065953654189,
+    "rank": 32
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9965",
+    "image": "https://lh3.googleusercontent.com/5nb6pBUwWQqTnOm1y5WcjTsIRUYdOJ65fp-yRq1PWQeDyspNhlowMOC0ga5O6wj7E3srYqGgD-at4DK3khMMubAHK4wG1EGntZf_=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rage",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Service",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 172.54901960784315,
+    "rank": 33
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9970",
+    "image": "https://lh3.googleusercontent.com/_Z9ZDqURUj2icLrUsOkJxokx4xZYSYPwvHKF27RdE5be8hNH3FVQJGo97sELKltElEvtdf7NXGotJyGMM1ZvKggah60hBMs7NQGBGqg=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Girl's Hair Short",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 163.8101604278075,
+    "rank": 34
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9879",
+    "image": "https://lh3.googleusercontent.com/cwE6D32IaO4JRF5RySc193wZp2F81Zg-b4zYtX0rZR0gYDCEOlny2uUrL_Uh2Nh8EQZ-es6K11SX4qEpVK5anlRiF4FkBg_SVWd52w=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Police Motorcycle Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 162.46212121212122,
+    "rank": 35
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9918",
+    "image": "https://lh3.googleusercontent.com/1xaQd82MuSL7nhUM5_Y1OBMaPnvJmaOGpbbHpIne43Q3eX3I2QA6xGD54xJTON2scMce-6-0AFRxVSLiT6o1JIBr4Bcxo_T-UhdM=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Fez",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Robot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      }
+    ],
+    "rarity": 159.0909090909091,
+    "rank": 36
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9974",
+    "image": "https://lh3.googleusercontent.com/G60LFd7Xhb4-awZbjqaoa8bfIbA-rC4Og7PSkpoJiI4aJyMruwNEy-hpVsVa-pwirkICITbzQCZoSp6iG-BsU5-Td7-DSrv0y6NVBA=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Eyepatch",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Rainbow Suspenders",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Out",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 158.4313725490196,
+    "rank": 37
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9884",
+    "image": "https://lh3.googleusercontent.com/oEQSysDTxDZoOt0odk3aOyMZARZAhXIrwwnurQw3Z-0NlUlLT4OHhUiLD3LAKJaplQ9abcbifVRw-sPPop2AvKAkmEKTn-DPwYaP0g=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Lab Coat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 157.87878787878788,
+    "rank": 38
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9998",
+    "image": "https://lh3.googleusercontent.com/bt8zThPFEgZpRvlK_hMB1GgjnwF0JpRq-6bA1NdhCCn-zXJJlnQwwDiCbaOsigsIO2XZ4s31oP9ziO7IPDcQvAmTxE2iavTf82rd=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Red",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 154.58333333333334,
+    "rank": 39
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9939",
+    "image": "https://lh3.googleusercontent.com/51HhDQB7awUAoFQMdQ-3i_pTON44sU7z4DSJu6PZ7jIOcUK3T4y7kKVvQ164w1PA4DDxyHmfyGA81WElI3sO7vY73n3jBIIjL0KhyQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Cowboy Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Vietnam Era Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 153.79901960784315,
+    "rank": 40
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9886",
+    "image": "https://lh3.googleusercontent.com/_5mXmSEDpE9br9jCHzoi5mWjj5h_ZSNixzOHBX0IREDFFdNNezXiDciskMTjXOuC63ojcYnRaXHD6tbOlJVkzALx0JdgyqcovE35SQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Necklace",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 147.13235294117646,
+    "rank": 41
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9933",
+    "image": "https://lh3.googleusercontent.com/8VrVwfI0Mksd7bB722i3OJt4nP6FdeT30sonHSfAPdEYSzi-bZu2kAytxMqZFzgFVmwledhaFP3F-Th78y5k2Grg0Xb3_1MGusYW6A=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prom Dress",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 146.42857142857144,
+    "rank": 42
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9973",
+    "image": "https://lh3.googleusercontent.com/-4Pz6B1FkH8kb7dcR0MMxrJsOdx6QVZYJSjYCaOLBb1rZWKbdhixeH8j-XLenPhEQEXYoGOfgEF1lgXWremypJ1esdXps1XcBLO9Cg=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Dmt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Girl's Hair Pink",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 144.12878787878788,
+    "rank": 43
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9964",
+    "image": "https://lh3.googleusercontent.com/q_tfK4QHj5f4kDdbM7UWnkkC7M1uO8NhO9fw3GG48giV4Aa9Rk1QMR3qsJoQ6Rj8ewP67wR7nqYZQ0a7Q7ENtGHVfd_equVb_tQV=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "X Eyes",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigar",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 143.3065953654189,
+    "rank": 44
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9978",
+    "image": "https://lh3.googleusercontent.com/AlHz4XEaLbguQ1x8CHVBg2DUS7b8delWen6AixSnqJ39cfQdpTGhnCLwozQ9Wkt8TV113hCuam5K1Iyz0XrdctGZN6-mcx6nORct=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Multicolored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 141.29901960784315,
+    "rank": 45
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9876",
+    "image": "https://lh3.googleusercontent.com/r9HUZ6lg5PfX4Nrzmd7L3CQCU_OHgeHiz_oadK_4O0qy_R10NEAZfy5DutNEq8fC7p4ZWWhXEDFRjWvDeUzPIcwjgo-Ti4CMN2IE3w=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Noise",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 137.26190476190476,
+    "rank": 46
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9986",
+    "image": "https://lh3.googleusercontent.com/jlznVI_z4566uBqqSp_eGYOKP9wz53mjCXgjv4kBa8A-hLEG4M8BtY_LgRFO4aSBRt1149kWF7Ve9X-8VTblBhdj9jzv4sMbYYkAbg=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Oh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Vietnam Era Helmet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 136.6883116883117,
+    "rank": 47
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9956",
+    "image": "https://lh3.googleusercontent.com/UWZZKqxPnsUTFVEd_JJ0pz9zWNqWAEIym7vybvPRFdjX_iW862NpoNii3YC5Hd2J6iKCE8t4SrfpOD9-j3CWn_wk1NIkpOvt5njiig=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Red",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null,
+        "rarity": 100,
+        "formula": "1 / (1 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 136.47822765469823,
+    "rank": 48
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9991",
+    "image": "https://lh3.googleusercontent.com/62ZlVh6NUJsu59vuEsP1KEA8A3wVZqViM6tq7iPo_sBsHgnOW2IG0eKaIxG1J-nLco2KI_oisLDjvvPhJ7m1ezdR-Nh2tpX04r3DfQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Laurel Wreath",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vietnam Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 136.18538324420678,
+    "rank": 49
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9981",
+    "image": "https://lh3.googleusercontent.com/6-vJBUELydlRUmWboeF6wF84USljP5jvyA7Gl5BL4Iw9ijfpwqPOpkSPHojDAOj18mEhUoAMbSiyiTShqpKr3JTNqlBfPHeNLSE7yw=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Discomfort",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Short Mohawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      }
+    ],
+    "rarity": 134.97326203208556,
+    "rank": 50
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9923",
+    "image": "https://lh3.googleusercontent.com/RClvflen3OVExvA_8OGqDNMY0BFXfqQq_dmV5j45NeKqGqlJM8glXJNzYdNmntG-iO53AUS0JIyL_TpWCLTErS04xiyZfrsP3lJzTA=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Faux Hawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prom Dress",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 125.23989898989899,
+    "rank": 51
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9966",
+    "image": "https://lh3.googleusercontent.com/jCjMXpsdkLw-B__ZwUU8PAG44N7-HAA8p5Lq7U5PvtaKHQNMOB4A9KWsezjAhe-gr1QsUCHaKvJhiT7aGviMPU6KlJvJwJwyY0vYpA=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bayc T Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 124.70238095238096,
+    "rank": 52
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9972",
+    "image": "https://lh3.googleusercontent.com/vcL_TRKR8FRqUjmF_BgvdDWV-KayjKBGTmFEVBEME_SzEFaM_xOtsDiGd0gARi3tY8LLdb85GUkE_jM08wQG6PCX0JsGznrHk72qmg=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rage",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 122.54901960784314,
+    "rank": 53
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9938",
+    "image": "https://lh3.googleusercontent.com/Tsca13TqNIzVQjR4jadyCZOXMt87G0hYsc9e5_XILhmAlEzXtJGX59kziyzjd-wwe_ZigwQHg7J6UQGir_pMov9ZADEiGsPmiF0P=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless Logo T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 121.76470588235294,
+    "rank": 54
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9999",
+    "image": "https://lh3.googleusercontent.com/3GN1RPjmaarlwxVX6-VRpNZbNhitK6q_g74hLSOhmBcQJ3dpj85Fu5fLpEKNoPknVjSdMyjX3cx289T7LZDo-_MaIl8Io7xRnt7WQQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Scumbag",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Army Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      }
+    ],
+    "rarity": 121.7156862745098,
+    "rank": 55
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9913",
+    "image": "https://lh3.googleusercontent.com/Yf_JlElBVWYEJup9nFOOpXUUNOrGgvDyYvO_cQ9bS2Lf863MISUlyUZXeF366m_Sd9nGrv1-c5g7bWXzJwGrGYtb4SozvyaxaPKh=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Zombie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 120.37878787878789,
+    "rank": 56
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9960",
+    "image": "https://lh3.googleusercontent.com/Zq1W0cw2NCwMznlTZwFIIpYxvtTkBsuxFQtPnGS3mIgv60nfPLtrXlV6FWq-ppCGQlcGLJzrEqMv8XKk3kOcCSljkf_CNFM1-rE1MA=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fez",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pimp Coat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 120.02164502164503,
+    "rank": 57
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9984",
+    "image": "https://lh3.googleusercontent.com/HNcc1wrex19lyeGvKS9ukpkjqSP54XLVxJmJttMt0o3FE1QP-c_IO95PB_jSXlM0Ws5KpO4SI-Gn0vKaZliYUJkBW-cDMfhECWsJDMs=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Flipped Brim",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Cheetah",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 118.76114081996435,
+    "rank": 58
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9887",
+    "image": "https://lh3.googleusercontent.com/tDOpIjVi7xYYdaVj4166YyRweOZUW30h_Oiycnol5xPgM3ApHGVFe-SHZS1IXYLqKxqKDtXhsCgH2hvk8GTotZhswA_1I4eln7OuRcQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 118.63275613275614,
+    "rank": 59
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9915",
+    "image": "https://lh3.googleusercontent.com/OHWnlQBCLjSveByg_T01P9Ah4ttmsPeic3ZgfeP-tKQlILTqYxayFuTAwoaLnmOCwYJrDSlk6pCd-typKHEc3N7UpTPpAnoJPP1GFg=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Biker Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 117.7170868347339,
+    "rank": 60
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9997",
+    "image": "https://lh3.googleusercontent.com/vskr__7eYXK6lZHjCSLx0VIOJkkJMLKREF9wjYHvlJ7kCbA_qJChXpI1nhLIInL5o3BviApzxFLR47B4ajOZue3Ond7bZPMudSI92w=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Multicolored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 117.32323232323233,
+    "rank": 61
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9952",
+    "image": "https://lh3.googleusercontent.com/8q4UBbfTt6DpE7aHMgfqMsOZYvfF6TPLN94cIDJbXeO7iG4Vw4gmYocI98g8HSTB6GcLyeZohfmOgyubU7BQzP8ESy3N4OpFtMcigA=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Cowboy Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      }
+    ],
+    "rarity": 117.32323232323233,
+    "rank": 62
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9936",
+    "image": "https://lh3.googleusercontent.com/9ZHZU313WyM8FEb2eEzbXrrSOE9yvsBaidc6vLOc-D0D59Bgn4Ai7OF_gHckoVTTaldxc5z-_eYF3a3AgADpjYk_ZQSwuQQ8iBzdRw=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "S&m Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 115.19607843137256,
+    "rank": 63
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9898",
+    "image": "https://lh3.googleusercontent.com/v1k3NPZsZnAlIgzKtz4EqI-dz4NqzV27F9x_1NW0uMQ6YamplhRdTQSkKSNcYW7XPGNPirTfja_q5oyNLz3eGUXNkPZf--k2Mm8uQQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Biker Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 114.6125116713352,
+    "rank": 64
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9924",
+    "image": "https://lh3.googleusercontent.com/PkHoGADQYR7bHrRwss1UEUOLYmQP8gd8jANo2nuh5XIK9NbkNdiMsCcPWwMHe_D3ECTBNKbc81MChh2PV4omrtejtFNE0Nn1PlAQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "S&m Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prom Dress",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 114.22682709447416,
+    "rank": 65
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9929",
+    "image": "https://lh3.googleusercontent.com/TUnBJQd2Ja1MXAZA0OYB9eBfX1SWzCM-zIv6WlvFgeFQ41_X1nGAmr6WeNijoTOO4pl7YvPHGGHibAmxbZsCBL2ZvigE4oFFMjofyw=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 113.1827731092437,
+    "rank": 66
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9937",
+    "image": "https://lh3.googleusercontent.com/FXK1A_d5EFucmJNJln-WKBlNja_Cgf6da5NOEcXVmf8H0aici_rp5rOCTpSDMuInfH-tMd7YGsbSh0d37m8u84OYI1PBruavnuN9gw=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 110.95238095238095,
+    "rank": 67
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9995",
+    "image": "https://lh3.googleusercontent.com/av0n1U41ScBRm6uBtY1xuvY2LRm9qKAyxvpfsbbR4g1qfRRdJS2HK5fEyEF-KuUbzu02cN6Chb760fCboEcEXmi5CF-9X0HCKpkz=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Smoking Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 110.37878787878789,
+    "rank": 68
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9985",
+    "image": "https://lh3.googleusercontent.com/TlZJC_41SghB22GqQ3UhLiihzwrs_kOlO1WH_kJExxmheRTqhd8yI8ERRUwPeIQRbfDqgIYmHfbQQFnI-B5G4sPXzOA8dHJlb8ANaw=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Bayc Hat Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigar",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 109.33473389355743,
+    "rank": 69
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9925",
+    "image": "https://lh3.googleusercontent.com/t2AawM2-3X_x5qjLCClwGcMTHvz5Oe5wV7s0IxM2UihfnVmPkd6WipXq4xINltFe2WChEtoDIzxJKRV0WsVao-ixD3dyygFas_XsCw=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Smoking Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 107.14285714285715,
+    "rank": 70
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9955",
+    "image": "https://lh3.googleusercontent.com/vMWpgPFlYxO6t9lb50XU_hVs2CvTg3wdPWXPhdG82JTLhMZ_cKT4O-qSRwRoziia1Ur85uL-XIBLN4eqdG4wnrHvW-S7rfIgdG-kuKg=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Kings Robe",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigar",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 105.89349376114082,
+    "rank": 71
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9969",
+    "image": "https://lh3.googleusercontent.com/-By9Yyj3kPgcuVQOBJ7sYtjEIgI3mVdWnWWCAjjdJTrYugj_SYi9HTgPjGSSf9uFUe-7mC54q70WJruIrhK1OY4nONlZm8lAJvZmVA=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      }
+    ],
+    "rarity": 105.4656862745098,
+    "rank": 72
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9957",
+    "image": "https://lh3.googleusercontent.com/d5SljZ4T99tMvZMypHD77ZCOu24PiytQtE_OyacZbVFwE7FTa8W4mwnX-g0hijv9hesAlEkFY-Yr5whh1iNQYRqfL_yem6csYchxeg=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 103.38235294117646,
+    "rank": 73
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9921",
+    "image": "https://lh3.googleusercontent.com/BvjMxZdv3YKk4fPz4mKuuJlcdMw1fihpTVbeJ1HD3Z-Gtqlr7HTt_fVGy8GE_pnDuliIly5Oda2mNnfs0Ojjg2UjnCJaqUtCsFUglK4=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 102.46212121212123,
+    "rank": 74
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9914",
+    "image": "https://lh3.googleusercontent.com/qHkBWdtLGzUn26eaBBvuZnY8tbH-kk1NhX31Y94T8yeqzJcKnRRIhv8yj0tOTWQP35NijVKRn0v_plMX9zeza-swiMxTPDfZii3Q=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Cowboy Shirt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 102.46212121212122,
+    "rank": 75
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9878",
+    "image": "https://lh3.googleusercontent.com/vIL4li8hEHohWMPnWsDoYkVztNjJSS4SfDPlJ4rvkk2Zr8A0Mzs4FcFBsW9EIpsTUO-gJY0gcTGsfzCO_nt9ukq0-TETFB-JyklKcl8=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Holes T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Eyed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 101.27917833800187,
+    "rank": 76
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9942",
+    "image": "https://lh3.googleusercontent.com/6mkFBnsSVfMCIp7kcY-IxpTtnzqGuqcRcHNubO_PevMW1SPdKELCY_eFNzcpcnGOR0nly8KPrwFvI-io-IDWbWmmtWmuiPeYrVsUDw=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Party horn",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      }
+    ],
+    "rarity": 97.89682539682539,
+    "rank": 77
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9883",
+    "image": "https://lh3.googleusercontent.com/F7iH3iYZMWCeLl8951lw5EnJsGXl9HYjfCqJpF2GuW3k9qvdFG3MXb54urlNZdPrZX8qBjjvJTsIgBgyB_pIuZQj6w1Rq-GCeepX=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Out",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 97.87878787878788,
+    "rank": 78
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9945",
+    "image": "https://lh3.googleusercontent.com/ZG6pVNheCkY8EpiXP2SKXcdYTrc8x-g3SYJVWoPE_4JPFy3Ywtt7po_c9q3Igs-1uPqbEmaDFdzCnDA0HRjMRNraDDYmf7Gbw-7v=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Laurel Wreath",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 95.4656862745098,
+    "rank": 79
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9877",
+    "image": "https://lh3.googleusercontent.com/Oo0nBXv1kCU2tCWICe1wncHH09bitZ_GlfgpmhdxRm_bDeY6jTONdNuKNB0OZcAvVJgeD8w9xc2HnfHKpEeh0bKk8zeKvNa5Rqe5=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 94.75140056022408,
+    "rank": 80
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9934",
+    "image": "https://lh3.googleusercontent.com/CnukVYx0etu09bOEUWdLcjcWH_3SqbBLRmcRXWKnBoN7wWeZMIPk_1gDjrzv8sO7yo304quRhhVbdJyTWHTt4WXpfEkLAa7R6fQ9ZA=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Rainbow Suspenders",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Short Mohawk",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 94.36274509803923,
+    "rank": 81
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9920",
+    "image": "https://lh3.googleusercontent.com/OUGDhnDP9JLvGqlbfClBGZwLykCifA9J3qmovHaqZ2z8PwatQxdiHmxKaL_VpyOPUEpn4eaUR6-4q3ZQ94wwE1HOwt1R7XnL8XYilA=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Kings Robe",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      }
+    ],
+    "rarity": 92.87878787878788,
+    "rank": 82
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9980",
+    "image": "https://lh3.googleusercontent.com/YrIFV7d7RF5ZYvaT0LTfeXUxUwhChsXgs4fKcGP3UcqDQLF0iFsGUN9R0iJ-0TqXhMsLb4Ljuz01tDw4WGH6QgBiHKrBbAy64Rjh4YQ=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Heart",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Party horn",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      }
+    ],
+    "rarity": 90.85561497326202,
+    "rank": 83
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9917",
+    "image": "https://lh3.googleusercontent.com/m1eJu77uqqcO1pjHyhfZU9bfpzXb7mWQjfEwV04RR38PXGaF6yc081rEHJqSzXbJF0N1JZTusky_vcNuqTM6Ose_VS81bt3gEGdX4bw=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffy Vest",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      }
+    ],
+    "rarity": 90.09803921568628,
+    "rank": 84
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9996",
+    "image": "https://lh3.googleusercontent.com/oOxrPSqIusE3pR1vLRSTQwfn52LnwnsZ_a1nCXked6fwOHrOnhvMBM1uMpshUb8Q4lL-gnlV9YoteT9cXnDgIsz46Zkbo7CImK-yKw=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dumbfounded",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3d",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 89.69187675070029,
+    "rank": 85
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9988",
+    "image": "https://lh3.googleusercontent.com/o1SUX7nzds33yRklxhMAgbyeUPvmhQ7N-PQF_RzFKL6iFiyBN6GfduExf9jlQJuh_5VOnnqHXfRa7EDWFxc2c5Uk9pPQfPoJmgq-5g=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hip Hop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 88.57323232323233,
+    "rank": 86
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9946",
+    "image": "https://lh3.googleusercontent.com/QQs7C4NfaaWq9ExFk_fi_nM-V7cWojPXu3Mq8VsWe8m1rqAxSIn2fqksKgyaupZQFdCItQC8OAXgABEQGgbHoh9vhChPI18dfSsnbkc=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Punk Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 14,
+        "order": null,
+        "rarity": 7.142857142857142,
+        "formula": "1 / (14 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sea Captain's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme Vuh",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      }
+    ],
+    "rarity": 88.02521008403362,
+    "rank": 87
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9935",
+    "image": "https://lh3.googleusercontent.com/_eOUHBF_rT1VkRO5QIN_tbp4lXAiL1IuV8Ul3kb1m0NTCmuUxQSHb7Pn9Eb5TrF6qKoaCnYuCFZdv3ESUpfJnebfXF815ywoLKhV=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null,
+        "rarity": 11.11111111111111,
+        "formula": "1 / (9 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Fisherman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 86.90656565656565,
+    "rank": 88
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9874",
+    "image": "https://lh3.googleusercontent.com/uN2j74H796OUUbgsggZSDQUY24pXGshvMQniUjvqLE0wz-QAec9LCZ8JVl9o8jmxbOF3__6s4lENqrBRC-jtIPfN9LkruDVKNz0V9g=s250",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 12,
+        "order": null,
+        "rarity": 8.333333333333334,
+        "formula": "1 / (12 / 100)"
+      }
+    ],
+    "rarity": 83.33333333333333,
+    "rank": 89
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9928",
+    "image": "https://lh3.googleusercontent.com/5nhiJkS4xmqOeuYnol3YTl11qBF-IxXpeLpJ5r83i986uZkVNJIaxYZ5cs9A0Q0C2-V693129y7XWpWpks5hyG3MUvWMPSRqXeOH=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Caveman Pelt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      }
+    ],
+    "rarity": 82.97682709447415,
+    "rank": 90
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9944",
+    "image": "https://lh3.googleusercontent.com/nW7PQXPqc2Wq8AsKietIJr-NEIVnKKMW6W2jxkATopKS_pjt54KbPtdP8o2KTvVe0InYKrkn5mPrD1HTK5Y61vPPSUuDqDcil3AqHw=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "S&m Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Striped Tee",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 80.89349376114083,
+    "rank": 91
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9919",
+    "image": "https://lh3.googleusercontent.com/9O035sX5nXeb3JDHYmU_rkCPFOLhU16J23zEAR1Vt4Ycfniyu_7P6ozMH4KgNRsXZXucNsklCbNiUyneVTCSVDCC0PMIwWfQfiNtreA=s250",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Tan",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      }
+    ],
+    "rarity": 80.87662337662337,
+    "rank": 92
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9971",
+    "image": "https://lh3.googleusercontent.com/uiQqZsrI5G9LIPFa0VIadOfsO-CN1iYh4gVXOD3f54LDxpXg49UoeLBE9tLYVjVJje2_MevvzHA2FIPIIXHJTB_i7R56MVIXrwaSyA=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Hoop",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      }
+    ],
+    "rarity": 79.63235294117646,
+    "rank": 93
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9987",
+    "image": "https://lh3.googleusercontent.com/sl90gncD8Z_LAC2XEWu1hnlagHY3JR31m9sl8O5absJzhyRmZvy9XP86GG0uLMk4mArokNSMltjSuKUux3C3vck9QfjUN9L4jdgxMOY=s250",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dmt",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 2,
+        "order": null,
+        "rarity": 50,
+        "formula": "1 / (2 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 79.25897631779983,
+    "rank": 94
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9983",
+    "image": "https://lh3.googleusercontent.com/Wq0-J1OdyBE8-N6b6Hil1q5IYQjLeoD-MyFcRX8CVsnVp9gP-M7rmU_ZOT62FC4s0YNYJBM9E0oOYkJck1ALoHUXZMVYpabuq1oZxA=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Guayabera",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 4,
+        "order": null,
+        "rarity": 25,
+        "formula": "1 / (4 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Army Green",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      }
+    ],
+    "rarity": 76.67780748663102,
+    "rank": 95
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9968",
+    "image": "https://lh3.googleusercontent.com/a-IwYlNZNbA7dHktsHubQroIfKZm-idWJQIBXkhsmNWM8Lt0Te4nlt7S3yJvkMPjcnoPyJ2nX2Lvyu4vaZs3xi5nK5sIYCsxBWOn=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Rainbow Suspenders",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Stud",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null,
+        "rarity": 9.090909090909092,
+        "formula": "1 / (11 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 68.73440285204991,
+    "rank": 96
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9961",
+    "image": "https://lh3.googleusercontent.com/YHCMHboAWU6n9h94fwZk-wFWevAm0ZlEMMgkhJQgGp9UpoQquxQem0K38g-jCP3BvXqokkjx3Ny0BdCHmzB0REyPXPxUOc-W0XmwkA=s250",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Seaman's Hat",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Cigarette",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      }
+    ],
+    "rarity": 68.38235294117646,
+    "rank": 97
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9982",
+    "image": "https://lh3.googleusercontent.com/2i5ADiI1Rpx5dHaYVh6P3BW27aRrJYf-hCezXnp2E8ar5e3W5E7gZGLuyqHlEZ9NgEorIu2OVHuxm9tcEulba4hTp4lEnxrFaCjOhn8=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sleeveless T",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 5,
+        "order": null,
+        "rarity": 20,
+        "formula": "1 / (5 / 100)"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Golden Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 7,
+        "order": null,
+        "rarity": 14.285714285714285,
+        "formula": "1 / (7 / 100)"
+      }
+    ],
+    "rarity": 66.58613445378151,
+    "rank": 98
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9993",
+    "image": "https://lh3.googleusercontent.com/uVxvGeIJRlub9sqkGM_6SOOvCMrEFxNmS_WQfFaT3ujADU1HMCGc1wpURnMfckZN81qXrVkYm29IEKA_XP7Vypig7l29HT0wcSNX7Q=s250",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null,
+        "rarity": 10,
+        "formula": "1 / (10 / 100)"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 3,
+        "order": null,
+        "rarity": 33.333333333333336,
+        "formula": "1 / (3 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 22,
+        "order": null,
+        "rarity": 4.545454545454546,
+        "formula": "1 / (22 / 100)"
+      }
+    ],
+    "rarity": 52.42424242424243,
+    "rank": 99
+  },
+  {
+    "price": null,
+    "status": "Not for Sale",
+    "name": "9916",
+    "image": "https://lh3.googleusercontent.com/BecjreleVLv5UmnfEU3ZFSqzSg6Jm0pwJod1C2sp9tactRrzgq3Cy0PTraNJ_6eKnJxoEcd9kfYWgFw3sb_6-GrRBTWNLE0j1-ip4HA=s250",
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Grin",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 6,
+        "order": null,
+        "rarity": 16.666666666666668,
+        "formula": "1 / (6 / 100)"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 16,
+        "order": null,
+        "rarity": 6.25,
+        "formula": "1 / (16 / 100)"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 8,
+        "order": null,
+        "rarity": 12.5,
+        "formula": "1 / (8 / 100)"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Dark Brown",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 17,
+        "order": null,
+        "rarity": 5.88235294117647,
+        "formula": "1 / (17 / 100)"
+      }
+    ],
+    "rarity": 41.29901960784314,
+    "rank": 100
+  }
+]

@@ -1,10 +1,10 @@
 {
-  "name": "reveal",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-nft-template",
+  "version": "0.0.1",
+  "description": "A template for a nft website with minting functionality",
+  "keywords": ["react", "nft", "web3", "minting", "metamask"],
   "dependencies": {
     "@craco/craco": "^6.3.0",
-    "@react-spring/parallax": "^9.3.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
@@ -13,7 +13,6 @@
     "react-icons": "^4.3.1",
     "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
-    "react-spring": "^9.3.0",
     "react-visibility-sensor": "^5.1.1",
     "tailwind": "^4.0.0",
     "web-vitals": "^1.1.2",

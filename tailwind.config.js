@@ -9,7 +9,8 @@ module.exports = {
         giraffe: "url('https://images.unsplash.com/photo-1548506446-86bfddac5620?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80')"
        },
        fontFamily: {
-        raisin: ['"Rum Raisin"']
+        raisin: ['"Rum Raisin"'],
+        roboto: ["Roboto"],
       }
     },
   },
